@@ -1,0 +1,14 @@
+# 页面默认前缀目录
+server:
+  port: 8090
+
+spring:
+  profiles:
+    active: pro
+  output:
+    ansi:
+      enabled: detect
+#属性
+
+hello: Hello GOfdgdg123的风格和
+
